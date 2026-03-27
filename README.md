@@ -6,5 +6,15 @@ Watt Wise is a full-stack machine learning application designed to predict energ
 The system helps users estimate future energy usage, analyze patterns, and make smarter energy decisions to optimize consumption and reduce costs.
 </p>
 
-<p>Dataset: https://www.kaggle.com/datasets/loveall/appliances-energy-prediction</p>
+<p><b>Dataset:</b> https://www.kaggle.com/datasets/loveall/appliances-energy-prediction</p>
 
+<h3>Tech Stack</h3>
+<ul>
+  <li>Front-end: ReactJS, CSS</li>
+  <li>Back-end: Python, Flask</li>
+  <li>Machine Learning: Regression Models (Linear Regression, Random Forest Regressor), Feature Scaling, Data Preprocessing</li>
+</ul>
+
+<h3>Home Page</h3>
+<img src="https://github.com/IshitaSinha2002/Watt-Wise/blob/main/Screenshot%20(69).png" style="width: 500px; height: 400px; object-fit: cover;">
+<img src="https://github.com/IshitaSinha2002/Watt-Wise/blob/main/Screenshot%20(70).png" style="width: 500px; height: 400px; object-fit: cover;">
